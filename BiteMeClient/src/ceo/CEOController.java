@@ -34,7 +34,7 @@ import login.LoginScreenController;
  * 
  * @author yosra
  */
-public class CEOController {
+public class CEOController { 
 
 	@FXML
 	private Label txtCEOName;
