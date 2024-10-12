@@ -79,6 +79,6 @@ This project was developed following a structured software development lifecycle
 - Advanced analytics utilizing big data technologies
 
 ## 🏆 Project Takeaway
-BiteMe showcases our team's ability to develop a complex, scalable, and user-friendly software system.\
-It demonstrates our proficiency in Java development, database management, and connectivity (using JDBC), GUI design, and software engineering principles.\ 
-This project reflects our capability to deliver high-quality software solutions for real-world business needs, emphasizing both functionality and security.\
+BiteMe showcases our team's ability to develop a complex, scalable, and user-friendly software system. \
+It demonstrates our proficiency in Java development, database management, and connectivity (using JDBC), GUI design, and software engineering principles. \
+This project reflects our capability to deliver high-quality software solutions for real-world business needs, emphasizing both functionality and security.
